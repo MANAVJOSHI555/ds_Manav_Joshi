@@ -15,4 +15,16 @@ It demonstrates how **sentiment indicators** can influence and even predict **ma
 ---
 
 ## 🗂️ Project Structure
-
+ds_<candidate_name>/
+├── notebook_1.ipynb
+├── csv_files/
+│ └── *.csv
+├── outputs/
+│ ├── market_sentiment_vs_price.png
+│ ├── sentiment_vs_trade_trend.png
+│ ├── price_distribution_by_sentiment.png
+│ ├── correlation_heatmap.png
+│ ├── sentiment_class_distribution.png
+│ └── insights.txt
+├── ds_report.pdf
+└── README.md
